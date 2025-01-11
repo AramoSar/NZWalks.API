@@ -5,7 +5,7 @@ namespace NZWalks.API.Data
 {
     public class NZWalksDbContext: DbContext
     {
-        public NZWalksDbContext(DbContextOptions dbContextoptions): base(dbContextoptions)
+        public NZWalksDbContext(DbContextOptions<NZWalksDbContext> dbContextoptions): base(dbContextoptions)
         {
             
         }
@@ -13,6 +13,7 @@ namespace NZWalks.API.Data
         public DbSet<Difficulty> Difficulties { get; set; }
         public DbSet<Region> Regions { get; set; }
         public DbSet<Walk> Walks { get; set; }
+        public DbSet<Image> Images { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
