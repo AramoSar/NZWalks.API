@@ -325,3 +325,16 @@ C:\Mac\Home\Desktop\NZWalks\NZWalks.API\obj\Debug\net8.0\refint\NZWalks.API.dll
 C:\Mac\Home\Desktop\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.pdb
 C:\Mac\Home\Desktop\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.genruntimeconfig.cache
 C:\Mac\Home\Desktop\NZWalks\NZWalks.API\obj\Debug\net8.0\ref\NZWalks.API.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Mac\Home\Desktop\NZWalks\NZWalks.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
